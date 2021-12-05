@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Haris/AndroidStudioProjects/AppBar/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2203125" />
         <entry key="..\:/Users/Haris/AndroidStudioProjects/AppBar/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/Haris/AndroidStudioProjects/AppBar/app/src/main/res/layout/menu.xml" value="0.11730072463768115" />
         <entry key="..\:/Users/Haris/AndroidStudioProjects/AppBar/app/src/main/res/layout/toolbar_layout.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/Haris/AndroidStudioProjects/AppBar/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
